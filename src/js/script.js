@@ -66,7 +66,7 @@ function clear(){
      emailInp.value = ""
      titleInp.value = ""
      messageInp.value = ""
-}
+};
 
 
     AOS.init({
