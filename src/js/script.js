@@ -72,18 +72,3 @@ function clear(){
     AOS.init({
     duration: 800,
     });
-
-        // let btn = document.getElementById("dark")
-        // let body = document.getElementById("bod")
-        // let darkflag = false
-
-        // function change() {
-        //     if (darkflag) {
-        //         body.setAttribute("class", "light")
-        //         darkflag = false
-        //     }
-        //     else {
-        //         body.setAttribute("class", "dark")
-        //         darkflag = true
-        //     }
-        // }
