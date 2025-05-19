@@ -14,8 +14,7 @@ let regex = /@+.com/
 
 window.addEventListener("contextmenu" , (e) => {
   e.preventDefault()
-})
-
+});
 humbermenu.addEventListener("click" , function(){
     navbar.classList.remove("hidden")
 })
