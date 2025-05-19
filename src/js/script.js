@@ -17,7 +17,7 @@ window.addEventListener("contextmenu" , (e) => {
 });
 humbermenu.addEventListener("click" , function(){
     navbar.classList.remove("hidden")
-})
+});
 close.addEventListener("click" , function(){
     navbar.classList.add("hidden");
 })
