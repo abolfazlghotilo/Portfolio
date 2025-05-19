@@ -20,7 +20,7 @@ humbermenu.addEventListener("click" , function(){
 });
 close.addEventListener("click" , function(){
     navbar.classList.add("hidden");
-})
+});
 function closeNav(){
   navbar.classList.add("hidden");
 }
