@@ -33,7 +33,7 @@ function scrollFunction() {
   } else {
     mybutton.style.display = "none";
   }
-}
+};
 
 function topFunction() {
   document.body.scrollTop = 0; 
