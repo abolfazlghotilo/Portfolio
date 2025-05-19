@@ -23,7 +23,7 @@ close.addEventListener("click" , function(){
 });
 function closeNav(){
   navbar.classList.add("hidden");
-}
+};
 window.onscroll = function() {scrollFunction()};
 
 
